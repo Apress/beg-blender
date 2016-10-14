@@ -1,0 +1,1 @@
+The file lipsync_head_done.blend uses textures from the texture folder. It is important to keep the folder and contents near the .blend file or the link to textures will be broken and the skin textures won't appear.
